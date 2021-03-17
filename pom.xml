@@ -122,6 +122,12 @@
                     <include>
                         darwin/libtsgo.dylib
                     </include>
+                    <include>
+                        linux-x86-64/libtsgo.so
+                    </include>
+                    <include>
+                        win32-x86-64/libtsgo.dll
+                    </include>
                 </includes>
             </testResource>
         </testResources>
